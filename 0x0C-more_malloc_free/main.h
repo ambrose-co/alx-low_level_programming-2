@@ -1,5 +1,4 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef
 
 #include <stdlib.h>
 #include <stdio.h>
@@ -70,4 +69,4 @@ int _length(char *str)
 	return (i);
 }
 
-#endif /* HOLBERTON_H */
+#endif 
